@@ -1,5 +1,4 @@
 # KotlinBusinessCard
-Kotlin
 
 Numaraya tıkladığınızda numara arama alanı açılır.
 </br>
