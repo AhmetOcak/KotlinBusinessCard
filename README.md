@@ -1,4 +1,4 @@
-# KotlinBusinessCard
+# KotlinBusinessCard 🎴
 
 Numaraya tıkladığınızda numara arama alanı açılır.
 </br>
